@@ -1,23 +1,23 @@
-﻿Author_ID (Primary Key),First Name,Last Name,Nationality,Undergraduate Degree?,,,,,,,,,,,,,,,,,,,,,
-0,Joanne,Rowling,British,TRUE,,,,,,,,,,,,,,,,,,,,,
-1,Ray ,Bradbury,American,FALSE,,,,,,,,,,,,,,,,,,,,,
-2,Rick,Riordan,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-3,Nathaniel,Hawthorne,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-4,Margaret,Atwood,Canadian,TRUE,,,,,,,,,,,,,,,,,,,,,
-5,John,Tolkien,British,TRUE,,,,,,,,,,,,,,,,,,,,,
-6,Edward,Denecke,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-7,Rebecca,Skloot,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-8,Marcus,Aurelius,Roman,FALSE,,,,,,,,,,,,,,,,,,,,,
-9,Ayn,Rand,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-10,Sharon,Draper,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-11,Emily,Brontë,English,FALSE,,,,,,,,,,,,,,,,,,,,,
-12,Francis,Fitzgerald,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-13,Anthony,Horowitz,English,TRUE,,,,,,,,,,,,,,,,,,,,,
-14,Sandra,Cisneros,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-15,Alexandre,Dumas,French,FALSE,,,,,,,,,,,,,,,,,,,,,
-16,Adam,Smith,Scottish,TRUE,,,,,,,,,,,,,,,,,,,,,
-17,George,Orwell,English,TRUE,,,,,,,,,,,,,,,,,,,,,
-18,Jane,Austen,British,FALSE,,,,,,,,,,,,,,,,,,,,,
-19,Harper,Lee,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-20,Brian,Vaughan,American,TRUE,,,,,,,,,,,,,,,,,,,,,
-21,Daniel,Brown,American,TRUE,,,,,,,,,,,,,,,,,,,,,
+Author_ID (Primary Key),First Name,Last Name,Nationality,Undergraduate Degree?
+0,Joanne,Rowling,British,TRUE
+1,Ray ,Bradbury,American,FALSE
+2,Rick,Riordan,American,TRUE
+3,Nathaniel,Hawthorne,American,TRUE
+4,Margaret,Atwood,Canadian,TRUE
+5,John,Tolkien,British,TRUE
+6,Edward,Denecke,American,TRUE
+7,Rebecca,Skloot,American,TRUE
+8,Marcus,Aurelius,Roman,FALSE
+9,Ayn,Rand,American,TRUE
+10,Sharon,Draper,American,TRUE
+11,Emily,Brontë,English,FALSE
+12,Francis,Fitzgerald,American,TRUE
+13,Anthony,Horowitz,English,TRUE
+14,Sandra,Cisneros,American,TRUE
+15,Alexandre,Dumas,French,FALSE
+16,Adam,Smith,Scottish,TRUE
+17,George,Orwell,English,TRUE
+18,Jane,Austen,British,FALSE
+19,Harper,Lee,American,TRUE
+20,Brian,Vaughan,American,TRUE
+21,Daniel,Brown,American,TRUE

@@ -1,16 +1,16 @@
-﻿Patron_ID,First,Last,Street Number,Street,City,State,Zip Code,Phone,# of current loans,,,,,,,,,,,,,,,,
-0,Wacky,Ticklesworth,432,Loopy Lane,Giggleton,Gigglytopia,90210,5404335215,0,,,,,,,,,,,,,,,,
-1,Chuckleberry,Gigglebottom,87,Chuckle Street,Quirkville,Quirkistan,10001,5693210547,1,,,,,,,,,,,,,,,,
-2,Quirk,Wobbleton,52,Quirky Avenue,Chuckleburg,Chuckletonia,60611,2563223589,2,,,,,,,,,,,,,,,,
-3,Snickers,Snickerpants,719,Giggles Way,Snickerhaven,Snickerland,33139,4251235632,0,,,,,,,,,,,,,,,,
-4,Jiggles,Quirkington,4,Wacky Road,Whimsytown,Whimsyville,94102,2533366583,3,,,,,,,,,,,,,,,,
-5,Bumble,Chuckleford,308,Snicker Lane,Wackyville,Wackytown,75201,2152235369,3,,,,,,,,,,,,,,,,
-6,Giggles,Bumblebee,951,Whimsy Boulevard,Laffburg,Laffsylvania,80202,9635668973,0,,,,,,,,,,,,,,,,
-7,Wanda,Wafflebottom,42,Pancake Lane,Syrupville,Butterland,12345,5551234567,0,,,,,,,,,,,,,,,,
-8,Harold,Hilarious,99,Giggle Street,Laughter City,Jokeland,67890,4157892221,3,,,,,,,,,,,,,,,,
-9,Penelope,Prankster,13,Gag Road,Mischief Town,Jokeland,54321,1234567891,3,,,,,,,,,,,,,,,,
-10,Oliver,Oddball,77,Quirk Avenue,Peculiar Heights,Whimsyville,98765,8889562212,3,,,,,,,,,,,,,,,,
-11,Gilda,Gigglesworth,23,Ticklish Terrace,Chuckeville,Guffaw City,13579,2468135790,1,,,,,,,,,,,,,,,,
-12,Barney,Bizarro,55,Quirky Lane,Sillyville,Absurdia,24680,7578668192,0,,,,,,,,,,,,,,,,
-13,Bill,Nye,123,Science Street,Test Tube,Experimentia,85587,4558976623,3,,,,,,,,,,,,,,,,
-14,David,Attenborough,321,Natura Lane,Wildernesse,Nationa,41588,1514849666,1,,,,,,,,,,,,,,,,
+Patron_ID,First,Last,Street Number,Street,City,State,Zip Code,Phone,# of current loans
+0,Wacky,Ticklesworth,432,Loopy Lane,Giggleton,Gigglytopia,90210,5404335215,0
+1,Chuckleberry,Gigglebottom,87,Chuckle Street,Quirkville,Quirkistan,10001,5693210547,1
+2,Quirk,Wobbleton,52,Quirky Avenue,Chuckleburg,Chuckletonia,60611,2563223589,2
+3,Snickers,Snickerpants,719,Giggles Way,Snickerhaven,Snickerland,33139,4251235632,0
+4,Jiggles,Quirkington,4,Wacky Road,Whimsytown,Whimsyville,94102,2533366583,3
+5,Bumble,Chuckleford,308,Snicker Lane,Wackyville,Wackytown,75201,2152235369,3
+6,Giggles,Bumblebee,951,Whimsy Boulevard,Laffburg,Laffsylvania,80202,9635668973,0
+7,Wanda,Wafflebottom,42,Pancake Lane,Syrupville,Butterland,12345,5551234567,0
+8,Harold,Hilarious,99,Giggle Street,Laughter City,Jokeland,67890,4157892221,3
+9,Penelope,Prankster,13,Gag Road,Mischief Town,Jokeland,54321,1234567891,3
+10,Oliver,Oddball,77,Quirk Avenue,Peculiar Heights,Whimsyville,98765,8889562212,3
+11,Gilda,Gigglesworth,23,Ticklish Terrace,Chuckeville,Guffaw City,13579,2468135790,1
+12,Barney,Bizarro,55,Quirky Lane,Sillyville,Absurdia,24680,7578668192,0
+13,Bill,Nye,123,Science Street,Test Tube,Experimentia,85587,4558976623,3
+14,David,Attenborough,321,Natura Lane,Wildernesse,Nationa,41588,1514849666,1
